@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4251A496-E1C4-466F-B0AC-D81F2185CFD7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Articleform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Articleform.Designer.cs">
+      <DependentUpon>Articleform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Categorieform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Categorieform.Designer.cs">
+      <DependentUpon>Categorieform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientform.Designer.cs">
+      <DependentUpon>Clientform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientmenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientmenu.Designer.cs">
+      <DependentUpon>Clientmenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Commander.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Commander.Designer.cs">
+      <DependentUpon>Commander.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultComm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultComm.Designer.cs">
+      <DependentUpon>ConsultComm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Factureform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Factureform.Designer.cs">
+      <DependentUpon>Factureform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menuform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menuform.Designer.cs">
+      <DependentUpon>Menuform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mesinfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mesinfo.Designer.cs">
+      <DependentUpon>Mesinfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panier.Designer.cs">
+      <DependentUpon>Panier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rechform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rechform.Designer.cs">
+      <DependentUpon>Rechform.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Articleform.resx">
+      <DependentUpon>Articleform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Categorieform.resx">
+      <DependentUpon>Categorieform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientform.resx">
+      <DependentUpon>Clientform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientmenu.resx">
+      <DependentUpon>Clientmenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Commander.resx">
+      <DependentUpon>Commander.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultComm.resx">
+      <DependentUpon>ConsultComm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Factureform.resx">
+      <DependentUpon>Factureform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menuform.resx">
+      <DependentUpon>Menuform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mesinfo.resx">
+      <DependentUpon>Mesinfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panier.resx">
+      <DependentUpon>Panier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Rechform.resx">
+      <DependentUpon>Rechform.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shoppinglogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fermer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fermer1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\person-icon-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PS5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\person-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TV.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PC.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Telephone.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PS51.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Réfrigérateur.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

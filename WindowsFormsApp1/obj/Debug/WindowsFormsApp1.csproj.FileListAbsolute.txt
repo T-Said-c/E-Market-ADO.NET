@@ -1,0 +1,65 @@
+C:\Users\HP\OneDrive\Bureau\cleint server\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\HP\OneDrive\Bureau\cleint server\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\HP\OneDrive\Bureau\cleint server\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\HP\OneDrive\Bureau\cleint server\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Bureau\cleint server\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\HP\OneDrive\Bureau\cleint server\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\HP\OneDrive\Bureau\cleint server\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Bureau\cleint server\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Bureau\cleint server\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\HP\OneDrive\Bureau\cleint server\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\2_tdi\sabour\cleint server\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\2_tdi\sabour\cleint server\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\2_tdi\sabour\cleint server\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\2_tdi\sabour\cleint server\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\2_tdi\sabour\cleint server\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\2_tdi\sabour\cleint server\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\2_tdi\sabour\cleint server\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\2_tdi\sabour\cleint server\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\2_tdi\sabour\cleint server\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\2_tdi\sabour\cleint server\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mahili\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mahili\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mahili\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mahili\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Mahili\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mahili\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Mahili\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mahili\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mahili\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mahili\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mahili\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Nabstie\Desktop\SQL exercices\Avion EX\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Nabstie\Desktop\SQL exercices\Avion EX\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Nabstie\Desktop\SQL exercices\Avion EX\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Nabstie\Desktop\SQL exercices\Avion EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Nabstie\Desktop\SQL exercices\Avion EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nabstie\Desktop\SQL exercices\Avion EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Nabstie\Desktop\SQL exercices\Avion EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Nabstie\Desktop\SQL exercices\Avion EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Nabstie\Desktop\SQL exercices\Avion EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Nabstie\Desktop\SQL exercices\Avion EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Nabstie\Desktop\SQL exercices\Avion EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Nabstie\Desktop\SQL exercices\Avion EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Nabstie\Desktop\Vente\Vente EX\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Nabstie\Desktop\Vente\Vente EX\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Nabstie\Desktop\Vente\Vente EX\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Nabstie\Desktop\Vente\Vente EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Nabstie\Desktop\Vente\Vente EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nabstie\Desktop\Vente\Vente EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Nabstie\Desktop\Vente\Vente EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Nabstie\Desktop\Vente\Vente EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Nabstie\Desktop\Vente\Vente EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Nabstie\Desktop\Vente\Vente EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Nabstie\Desktop\Vente\Vente EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientform.resources
+C:\Users\Nabstie\Desktop\Vente\Vente EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menuform.resources
+C:\Users\Nabstie\Desktop\Vente\Vente EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorieform.resources
+C:\Users\Nabstie\Desktop\Vente\Vente EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Articleform.resources
+C:\Users\Nabstie\Desktop\Vente\Vente EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Factureform.resources
+C:\Users\Nabstie\Desktop\Vente\Vente EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ConsultComm.resources
+C:\Users\Nabstie\Desktop\Vente\Vente EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\Nabstie\Desktop\Vente\Vente EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Rechform.resources
+C:\Users\Nabstie\Desktop\Vente\Vente EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientmenu.resources
+C:\Users\Nabstie\Desktop\Vente\Vente EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Commander.resources
+C:\Users\Nabstie\Desktop\Vente\Vente EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Panier.resources
+C:\Users\Nabstie\Desktop\Vente\Vente EX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Mesinfo.resources
